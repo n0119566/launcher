@@ -1,0 +1,32 @@
+.radius {
+  border-radius: 4rem;
+  border: solid;
+  border-width: 1px;
+  background-color: lightgray;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.total {
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.smalltron-footer {
+  background-color: #343a40;
+  color: white;
+  margin: 0.25rem;
+  padding: 0.25rem 0.25rem 0.25rem 0.25rem;
+  border-radius: 1rem;
+}
+
+.confirmed {
+  color: lightgrey;
+  font-family: Arial;
+  animation: fadeIn 5s;
+}
+
+
+
+
